@@ -1,3 +1,6 @@
 [submodule "rusefi"]
 	path = rusefi
 	url = https://github.com/rusefi/rusefi
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = https://github.com/rusefi/kicad-libraries
