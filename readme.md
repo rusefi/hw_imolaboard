@@ -1,5 +1,7 @@
 https://rusefi.com/forum/viewtopic.php?f=4&t=1473
 
+As of Jan 2019 KICAD 4.0.7 is the offical KICAD for rusEFI's layouts. 
+
 
 Important note - we use submodules here, once you clone you need to run:
 
